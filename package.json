@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "s",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "connect-timeout": "^1.9.0",
+    "cors": "^2.8.5",
+    "download": "^8.0.0",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.4",
+    "mysql": "^2.18.1",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sdf"
+  },
+  "keywords": [
+    "sdf"
+  ],
+  "author": "",
+  "license": "ISC"
+}
